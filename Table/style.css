@@ -1,0 +1,11 @@
+ table, th, td{
+    border: 2px solid brown;
+    border-collapse: collapse;
+    text-align: center;
+}
+table{
+    width: 100%;
+}
+th,td{
+    color: violet;
+}
